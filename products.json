@@ -1,0 +1,68 @@
+{
+     "products": [
+ {
+    "img":"/img/red-boot.png",
+   "name": "Heritage R Toe Western boot",
+   "price": "$124.99",
+   "description":"With beautiful stitching and a traditional R toe, these are classic cowboy through and through. Their comfort and versatility make them a go-to.",
+   "color":"Rosy Red",
+   "buttonText":"Add to Cart"
+ },
+{    
+    "img":"/img/woman-black-boot.png",
+    "name":"Heritage R Toe Western boot",
+    "price":"$124.99",
+    "description":"With beautiful stitching and a traditional R toe, these are classic cowboy through and through. Their comfort and versatility make them a go-to.",
+    "color": "Black Deertan",
+    "buttonText":"Add to Cart"
+
+},
+{
+    "img":"/img/women-brown-boot.png",
+    "name":"Magnolia Western Boot",
+    "price": "$99.99",
+    "description":"This gorgeous boot is the perfect combination of Western heritage and modern elegance. Pair it with a blouse and jeans for a classic look—or go high-fashion with a blazer and a midi dress.",
+    "color":"Fawn Brown",
+    "buttonText":"Add to Cart"
+
+},
+        {
+    "img":"/img/women-shacket.png",
+    "name": "Softshell Chimayo Jacket",
+    "price":"$60.00",
+    "description": "The artists at Centinela Traditional Arts created a pattern inspired by the Chimayo weaving tradition and we elevated this everyday softshell jacket with it. All the same stretch and comfort you expect from us, with a little something extra.",
+    "color":"Rio Chiquito BLK/Buttercream",
+    "buttonText":"Add to Cart"
+
+        },
+        {
+    "img":"/img/orange-dress.png",
+    "name":"Ruffle Short Puff Sleeve Dress",
+    "price":"$28.98",
+    "description":"This dress will make you feel confident and beautiful, inside and out. It's a perfect mixture of young contemporary, casual basic, and active — perfect for women in every city and location.",
+    "color":"Apricot tan",
+    "buttonText":"Add to Cart"
+
+
+        },
+        {
+    "img":"/img/blue-dress.png",
+    "name": "Savanna Dress",
+    "price":"$34.99",
+    "description":"A `70s staple, the Quinta Milla® way. This loose, tiered dress has bell sleeves and a flowy skirt. Cinch the waist with a belt and slip-on your boots, it's ready to make a statement.",
+    "color":"Multi",
+    "buttonText":"Add to Cart"
+
+       }
+     ]
+    }
+
+
+
+
+
+
+        
+
+
+

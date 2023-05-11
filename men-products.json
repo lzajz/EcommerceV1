@@ -1,0 +1,84 @@
+{
+  "menProducts":[
+{
+    "img":"/img/men-boot1.png",
+    "name":"Double Down Western Boot",
+    "color":"Antique Pecan",
+    "price":"$400",
+    "description":"This exquisite boot is handcrafted from a mix of exotic hide and premium leather. What you can't see (but definitely feel) is the comfort and stability. ",
+    "buttonText":"Add to Cart"
+
+ },
+{
+   "img":"/img/men-boot2.png",
+   "name":"Snowman Western Boot",
+   "color":"Black Elephant Print",
+   "price":"$250",
+   "description":" A narrow cutter toe, roughout foot, and bold shaft pattern make a striking statement. Superior comfort and stability, plus an extra layer of heel-to-toe cushioning.",
+   "buttonText":"Add to Cart"
+
+ },
+{
+    "img":"/img/men-boot3.png",
+    "name":"Denton Western Boot",
+    "color":"Dark Caiman",
+    "price":"$534.95",
+    "description":"This performance boot features beautiful caiman alligator belly alongside a durable DualPro® sole that can stand up to frequent wear.",
+    "buttonText":"Add to Cart"
+
+ },
+{
+   "img":"/img/men-jean1.png",
+   "name":" M1 Low Rise Bootcut Jean",
+   "color":"Light-Medium Wash",
+   "price":"$64.99",
+   "description":"Lighten up your jeans drawer with this ultra-comfortable pair. Relaxed through the waist, hip and thigh, they’re easy to wear and easy on the eyes ",
+   "buttonText":"Add to Cart"
+
+ },
+{
+   "img":"/img/men-jean2.png",
+   "name":"M2 Relaxed Boot Cut Jean",
+   "color":"True Blue",
+   "price":"$59.95",
+   "description":"This is go-anywhere, do-anything denim. Ready to work hard or play hard, our relaxed-fit M2 has a stackable, boot-cut leg for a classic look.",
+   "buttonText":"Add to Cart"
+
+ },
+{
+"img":"/img/men-jean3.png",
+"name":"M3 Coltrane Boot Cut Jean ",
+"color":"Durango",
+"price":"$56.99",
+"description":" A modern take on a classic style. Comfortable and durable, our boot cut M4 is relaxed through the hip and thigh for a fit that looks good on everyone.",
+"buttonText":"Add to Cart"
+
+  }
+
+]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
